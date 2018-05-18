@@ -1,0 +1,1 @@
+INSERT INTO series (id, title, author_id, genre_id)
